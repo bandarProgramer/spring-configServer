@@ -6,3 +6,6 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: ${EUREKA_SERVER_ADDRRES:http://localhost:8761/eureka}
+
+my:
+  name: bandar
